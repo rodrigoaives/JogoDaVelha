@@ -54,7 +54,7 @@
             this.lblVez.BackColor = System.Drawing.Color.Transparent;
             this.lblVez.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblVez.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblVez.Location = new System.Drawing.Point(170, 23);
+            this.lblVez.Location = new System.Drawing.Point(170, 28);
             this.lblVez.Name = "lblVez";
             this.lblVez.Size = new System.Drawing.Size(318, 41);
             this.lblVez.TabIndex = 0;
